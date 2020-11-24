@@ -14,6 +14,3 @@ make
 ```
 
 You can run all testcases using `run.sh` and check results in `.log` files.
-```
-./run.sh
-```
